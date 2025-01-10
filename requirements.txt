@@ -9,7 +9,7 @@ jsonnet==0.18.0
 django-nose==1.4.6
 django-rest-swagger==2.2.0
 selenium==4.7.2
-
+psycopg2 == 2.9.10
 
 #Cambio rq1
 #Cambio rq2
